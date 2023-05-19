@@ -1,0 +1,220 @@
+PATTERNS
+NounStem INTSSuffix? PGNMarker?
+NounStem INTSSuffix? PGNOBLMarker?
+AdjStem DERtoNOMSuffix PGNMarker?
+AdjStem DERtoNOMSuffix PGNOBLMarker?
+VerbStem VChSuffix? PGNOSuffix?
+VerbStem NMZSuffix OBLMarker?
+PronStem PGNMarker
+TAMSuffixStem
+PostStem PGNMarker?
+PossStem
+AscStem PGNMarker
+AdjStem
+NounStem DERtoADJSuffix
+VerbStem DERtoADJSuffix
+DemStem PGNMarker?
+DemStem PGNOBLMarker?
+
+LEXICON NounStem
+<hen>:honder
+
+
+LEXICON PGNMarker
+<1p><sg><m>:ta
+<2p><sg><m>:ts
+<3p><sg><m>:{PGN3SGm}
+<3p><sg><m>:{N}i
+<1p><sg><f>:ta
+<2p><sg><f>:s
+<3p><sg><f>:s
+<3p><sg><c>:i
+<1p><du><m>:khom
+<2p><du><m>:kho
+<3p><du><m>:kha
+<1p><du><f>:m
+<2p><du><f>:ro
+<3p><du><f>:ra
+<1p><du><c>:m
+<2p><du><c>:ro
+<3p><du><c>:ra
+<1p><pl><m>:ge
+<2p><pl><m>:go
+<3p><pl><m>:gu
+<1p><pl><f>:se
+<2p><pl><f>:so
+<3p><pl><f>:di
+<1p><pl><c>:da
+<2p><pl><c>:du
+<3p><pl><c>:{I}n
+
+LEXICON PGNOBLMarker
+<1p><sg><m><obl>:ta
+<2p><sg><m><obl>:tsa
+<3p><sg><m><obl>:{B}a
+<1p><sg><f><obl>:ta
+<2p><sg><f><obl>:sa
+<3p><sg><f><obl>:sa
+<3p><sg><c><obl>:e
+<1p><du><m><obl>:khoma
+<2p><du><m><obl>:kho
+<3p><du><m><obl>:kha
+<1p><du><f><obl>:ma
+<2p><du><f><obl>:ro
+<3p><du><f><obl>:ra
+<1p><du><c><obl>:ma
+<2p><du><c><obl>:ro
+<3p><du><c><obl>:ra
+<1p><pl><m><obl>:ge
+<2p><pl><m><obl>:go
+<3p><pl><m><obl>:ga
+<1p><pl><f><obl>:se
+<2p><pl><f><obl>:so
+<3p><pl><f><obl>:de
+<1p><pl><c><obl>:da
+<2p><pl><c><obl>:do
+<3p><pl><c><obl>:{I}na
+
+LEXICON OBLMarker
+<obl>:a
+
+LEXICON VerbStem
+<cry>:ā
+
+
+LEXICON VChSuffix
+<appl>:ba
+<refl>:sen
+<pass>:he
+<recp>:gu
+
+LEXICON PGNOSuffix
+<1p><sg><m><obj>:te
+<2p><sg><m><obj>:tsi
+<3p><sg><m><obj>:{PGN3SGm}
+<3p><sg><m><obj>:{N}i
+<3p><sg><m><obj>:mi
+<1p><sg><f><obj>:te
+<2p><sg><f><obj>:si
+<3p><sg><f><obj>:si
+<3p><sg><c><obj>:i
+<1p><du><m><obj>:khom
+<2p><du><m><obj>:kho
+<3p><du><m><obj>:kha
+<1p><du><f><obj>:m
+<2p><du><f><obj>:ro
+<3p><du><f><obj>:ra
+<1p><du><c><obj>:ma
+<2p><du><c><obj>:ro
+<3p><du><c><obj>:ra
+<1p><pl><m><obj>:ge
+<2p><pl><m><obj>:go
+<3p><pl><m><obj>:gu
+<1p><pl><f><obj>:se
+<2p><pl><f><obj>:so
+<3p><pl><f><obj>:di
+<1p><pl><c><obj>:da
+<2p><pl><c><obj>:di
+<3p><pl><c><obj>:an
+<3p><pl><c><obj>:in
+
+LEXICON PronStem
+<1p><sg>:ti
+<1p><excl>:sī
+<2p>:sā
+<1p><incl>:sā
+<3p>:ǁî
+
+
+LEXICON TAMSuffixStem
+<pst>:ge
+<rpst>:go
+<fut>:nî
+<cond>:ga
+<cond>:ka
+<pst><ipfv>:gere
+<rpst><ipfv>:goro
+<prs><ipfv>:ra
+<prs><ipfv>:ta
+<fut><ipfv>:nî{ }ra
+<cond><ipfv>:kara
+<pfv>:hâ{ }i
+<pfv>:hâ
+<stati>:i
+<stata>:a
+
+
+LEXICON PostStem
+<on>:ai
+<before>:aiǃâ
+<before>:aiǂama
+<after>:khaoǃgâ
+<as>:khami
+<as>:khama
+<until>:kōse
+<near>:tawa
+<without>:ose
+<of>:xa
+<from>:xu
+<near>:xōri
+<towards>:ǀî
+<between>:ǁaegu
+<to>:ǁga
+<with>:ǀkha
+<between>:ǁaegu
+<about>:ǂama
+<for>:ǃaroma
+<to>:ǃoa
+<against>:ǃoa-ai
+<opposite>:ǃoagu
+<under>:ǃgao
+<over>:ǂamai
+<over>:ǂamǃnâ
+<into>:ǃnâ
+<into>:ǃna
+<through>:ǃnâ-ū
+<around>:ǂnamipe
+
+
+LEXICON PossStem
+<poss>:di
+<poss>:ti
+<1sg><poss>:tī
+<2sg><poss>:sā
+
+
+LEXICON AscStem
+<asc>:â
+
+
+LEXICON NMZSuffix
+<nmz>:s
+
+LEXICON AdjStem
+<big>:kai
+<good>:ǃgâi
+<small>:ǂkhari
+
+
+LEXICON DERtoADJSuffix
+<full>:xa
+<lacking>:’o
+<able>:sa
+
+LEXICON INTSSuffix
+<aug>:ro
+<dim>:kara
+
+LEXICON DERtoNOMSuffix
+<der>:si
+
+LEXICON DemStem
+<this>:nē
+<that>:nau
+<what>:mâ
+<same>:xā
+<some>:ǀnî
+
+
+
+
