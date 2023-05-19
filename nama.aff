@@ -1,0 +1,116 @@
+SFX A Y 29
+SFX A 0 ta
+SFX A 0 ts
+SFX A 0 i [lmnr]
+SFX A 0 b [^lmnr]
+SFX A 0 ni [n]
+SFX A 0 mi [m]
+SFX A 0 ta
+SFX A 0 s
+SFX A 0 s
+SFX A 0 i
+SFX A 0 khom
+SFX A 0 kho
+SFX A 0 kha
+SFX A 0 m
+SFX A 0 ro
+SFX A 0 ra
+SFX A 0 m
+SFX A 0 ro
+SFX A 0 ra
+SFX A 0 ge
+SFX A 0 go
+SFX A 0 gu
+SFX A 0 se
+SFX A 0 so
+SFX A 0 di
+SFX A 0 da
+SFX A 0 du
+SFX A 0 in [lmnr]
+SFX A 0 n [^lmnr]
+
+SFX B Y 27
+SFX B 0 ta
+SFX B 0 tsa
+SFX B 0 ba [^lmnr]
+SFX B 0 a [lmnr]
+SFX B 0 ta
+SFX B 0 sa
+SFX B 0 sa
+SFX B 0 e
+SFX B 0 khoma
+SFX B 0 kho
+SFX B 0 kha
+SFX B 0 ma
+SFX B 0 ro
+SFX B 0 ra
+SFX B 0 ma
+SFX B 0 ro
+SFX B 0 ra
+SFX B 0 ge
+SFX B 0 go
+SFX B 0 ga
+SFX B 0 se
+SFX B 0 so
+SFX B 0 de
+SFX B 0 da
+SFX B 0 do
+SFX B 0 ina [lmnr]
+SFX B 0 na [^lmnr]
+
+SFX C Y 1
+SFX C 0 a
+
+SFX D Y 4
+SFX D 0 ba
+SFX D 0 sen
+SFX D 0 he
+SFX D 0 gu
+
+SFX E Y 30
+SFX E 0 te
+SFX E 0 tsi
+SFX E 0 i [lmnr]
+SFX E 0 b [^lmnr]
+SFX E 0 ni [n]
+SFX E 0 mi [m]
+SFX E 0 mi
+SFX E 0 te
+SFX E 0 si
+SFX E 0 si
+SFX E 0 i
+SFX E 0 khom
+SFX E 0 kho
+SFX E 0 kha
+SFX E 0 m
+SFX E 0 ro
+SFX E 0 ra
+SFX E 0 ma
+SFX E 0 ro
+SFX E 0 ra
+SFX E 0 ge
+SFX E 0 go
+SFX E 0 gu
+SFX E 0 se
+SFX E 0 so
+SFX E 0 di
+SFX E 0 da
+SFX E 0 di
+SFX E 0 an
+SFX E 0 in
+
+SFX F Y 1
+SFX F 0 s
+
+SFX G Y 3
+SFX G 0 xa
+SFX G 0 ’o
+SFX G 0 sa
+
+SFX H Y 2
+SFX H 0 ro
+SFX H 0 kara
+
+SFX I Y 1
+SFX I 0 si
+
