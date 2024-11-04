@@ -1,6 +1,7 @@
-### Спеллчекер для языка нама. Spellchecker for Nama language
-#### Выполнено Михневой Анной, 2 курс ФиКЛ
-Файл с основным кодом: hunspell_test.py <br>
-В файле находится конвертер морфоанализатора в два файла: файл словаря и файл аффиксов, при помощи которых возможно проверять орфографию языка нама в системе Hunspell. <br>
-В качестве данных используется файл morphoanalyzator.txt, в который скопирован в текстовом формате морфоанализатор языка нама, созданный моим коллегой в качестве курсовой работы. <br>
-Выходные данные: файлы nama.dic (словарь) и nama.aff (файл аффиксов) <br>
+### Spellchecker for Nama language
+#### Mikhneva Anna
+
+The file with the main code: hunspell_test.py <br>
+The file contains a morphoanalyzer converter into two files: a dictionary file and an affix file, with which it is possible to check the spelling of the Nama language in the Hunspell system. <br>
+As the data I used morphoanalyzator.txt , into which the nama language morphoanalyzer, created by my colleague as a coursework, is copied in text format. <br>
+Output data: nama.dic (dictionary) and nama.aff (affix file) files <br>
